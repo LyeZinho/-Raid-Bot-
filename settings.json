@@ -1,7 +1,7 @@
 {
-    "prefix":"f",
-    "token":"NzkxMDIxODE3Nzc5MzIyOTIw.X-JGeQ.dTykntKNAtV9ST3YqAYJa2sdH8A",
-    "founder": "Fiatuno#1464", 
-    "invite": "https://discord.com/api/oauth2/authorize?client_id=791403791370027008&permissions=8&scope=bot",
-    "organisation": "FDSN" 
+    "prefix":".",
+    "token":"",
+    "founder": "", 
+    "invite": "",
+    "organisation": "" 
   }
